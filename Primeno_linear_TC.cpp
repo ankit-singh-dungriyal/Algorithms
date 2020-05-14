@@ -1,4 +1,6 @@
+// Here we are finding N prime numbers in O(n) time.
 // This algorithm has linear time complexity but space complexity is large.
+
 
 #include<bits/stdc++.h>
 using namespace std;
